@@ -13,7 +13,7 @@ console = Console()
 TOOL_NAME = "WHITE DEVIL-21 AADHAAR OSINT"
 DEVELOPER = "WHITEDEVIL-21"
 
-API_URL = "https://ck-aadhaar-osint.vercel.app/fetch"
+API_URL = "https://whitedevil-21-aadhardetails.vercel.app/fetch"
 API_KEY = "paidchx"
 
 def animate_header():
