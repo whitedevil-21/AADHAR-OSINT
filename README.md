@@ -11,7 +11,7 @@
   <li>apt install git</li>
   <li>git clone https://github.com/whitedevil-21/AADHAR-OSINT.git</li>
   <li>ls</li>
-  <li>cd</li>
+  <li>cd AADHAR-OSINT</li>
   <li>ls</li>
   <li>python3 aadhaar.py</li>
 </ul>
