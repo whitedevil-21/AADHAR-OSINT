@@ -9,7 +9,7 @@
   <li>apt update</li>
   <li>apt upgrade</li>
   <li>apt install git</li>
-  <li>git clone</li>
+  <li>git clone https://github.com/whitedevil-21/AADHAR-OSINT.git</li>
   <li>ls</li>
   <li>cd</li>
   <li>ls</li>
