@@ -10,8 +10,8 @@ import requests
 
 console = Console()
 
-TOOL_NAME = "CK AADHAAR OSINT"
-DEVELOPER = "CK EXPLOIT"
+TOOL_NAME = "WHITE DEVIL-21 AADHAAR OSINT"
+DEVELOPER = "WHITEDEVIL-21"
 
 API_URL = "https://ck-aadhaar-osint.vercel.app/fetch"
 API_KEY = "paidchx"
